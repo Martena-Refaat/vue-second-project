@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "rezo@gmail.com",
+      "name": "rezo refaat",
+      "password": "rezo@123",
+      "id": 1
+    },
+    {
+      "email": "neno@gmail.com",
+      "password": "neno123",
+      "name": "neno",
+      "id": 2
+    }
+  ],
+  "resturant": [
+    {
+      "id": 1,
+      "name": "burger king",
+      "contact": 333,
+      "addresses": "georgia"
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "contact": 444,
+      "addresses": "egypt"
+    },
+    {
+      "name": "pizza ",
+      "addresses": "paris",
+      "contact": 555,
+      "id": 3
+    },
+    {
+      "name": "mac ",
+      "contact": 666,
+      "addresses": "london",
+      "id": 4
+    },
+    {
+      "name": " donute",
+      "addresses": "cairo ",
+      "contact": "777",
+      "id": 5
+    },
+    {
+      "name": "mac ",
+      "contact": 666,
+      "addresses": "london",
+      "id": 6
+    },
+    {
+      "name": "mac ",
+      "contact": 666,
+      "addresses": "london",
+      "id": 7
+    }
+  ]
+}
